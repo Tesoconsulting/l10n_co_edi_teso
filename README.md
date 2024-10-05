@@ -6,6 +6,3 @@ Derechos de autor (2024-2027) – Teso Consulting SAS
 
 Bajo la licencia LGPL (Licencia Pública General Reducida)  
 Módulo de facturación electrónica para Colombia en Odoo 17.0
-
-Para la solicitud del TOKEN, usar el siguiente dominio:  
-[https://tesoconsulting.taxxa.co/api2.djson](https://tesoconsulting.taxxa.co/api2.djson)
