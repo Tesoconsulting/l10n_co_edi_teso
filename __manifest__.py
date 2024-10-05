@@ -21,17 +21,13 @@
 #
 
 {
-    'name': "Facturación electrónica DIAN para Colombia por Teso Consulting SAS",
-    'summary': 'Facturación electrónica DIAN para Colombia por Teso Consulting SAS',
-    'description': "Electronic invoicing management for companies in Colombia",
-    'author': "Teso Consulting SAS",
-    'license': "LGPL-3",
-    'category': 'Invoicing & Payments',
-    'version': '17.0.2024.10.03.1822',
-    'website': "https://www.tesoconsulting.co",
-    'images': ['static/images/main_screenshot.png'],
-    'support': 'info@tesoconsulting.co',
-
+    'name': 'Facturación Electrónica TESO',
+    'version': '1.0',
+    'author': 'TESO Consulting',
+    'category': 'Accounting',
+    'summary': 'Módulo de integración para la facturación electrónica en Odoo 17',
+    'depends': ['account', 'l10n_co'],
+    
     # Odoo, OCA and Teso dependencies
     'depends': [
         'account',
